@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">t2s</string>
+    <string name="convert">convert</string>
+    <string name="txtToSpch">Akhil Sv 4PM18CS005 </string>
+    <string name="write_something_to_listen">enter the Text here......</string>
+    <string name="convert_text_to_speech">Convert</string>
+</resources>
